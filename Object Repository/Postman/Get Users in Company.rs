@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Get Users in Company</name>
+   <tag></tag>
+   <elementGuidId>581524c0-0852-4d5d-94d1-c396f5f3149e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTAyMjE3NDEsImh1YmJsZV9pZCI6ImJxc2J2b2QydjAyNHY4YXFsNzYwIiwidWlkIjoiMTVhMGUzMGMtNGE0MC00MjM1LThkMzYtYzdiNjI0YTBhZjcyIiwiZXhwIjoxNTkwMjIxNzQxfQ.gRW-VzBHjBHusVHOZtIW6FV3LVeJ2yu8DtXKyQB1C4A</value>
+      <webElementGuid>10a93361-93f8-4d14-9fe7-42970153d16d</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>8.5.5</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://${domain}.hubble.sg/api/companies/b0cc85c1-258a-4ea6-aadc-a988b894b482/users</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.domain</defaultValue>
+      <description></description>
+      <id>5c81db16-d9d7-4d5f-b754-2cb020926758</id>
+      <masked>false</masked>
+      <name>domain</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
