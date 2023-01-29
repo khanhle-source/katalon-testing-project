@@ -21,11 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://platform-stg.hubble.build/')
 
-WebUI.click(findTestObject('Object Repository/Page_Hubble.Build_Login/button_Sign In'))
+WebUI.click(findTestObject('Page_Hubble.Build/button_Sign In'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hubble.Build_Login/input_Email or Username_email'), 'khanh.le+20@hubble.sg')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hubble.Build_Login/input_Password_password'), 'p4y+y39Ir5O++RH4jAhtiA==')
 
-WebUI.click(findTestObject('Object Repository/Page_Hubble.Build_Login/button_Sign In'))
+WebUI.click(findTestObject('Page_Hubble.Build_Login/button_Sign In'))
+
+WebUI.closeBrowser()
 
