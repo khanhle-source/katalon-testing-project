@@ -23,3 +23,7 @@ WebUI.navigateToUrl('https://platform-stg.hubble.build/')
 
 WebUI.takeScreenshotAsCheckpoint('screenshot_conf')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('full_screenshot')
+
+WebUI.closeBrowser()
+
