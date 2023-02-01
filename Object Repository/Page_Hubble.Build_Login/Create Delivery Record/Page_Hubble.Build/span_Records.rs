@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Records</name>
+   <tag></tag>
+   <elementGuidId>4a9b9ca7-6105-4eda-ac13-3ce825c57ff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.sc-hvvGzM.gMPhOF.ant-menu-item-active > div.sc-iPzdya.dxmTyM.menu-item-label-container > span.sc-jOXufW.kLbcwX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='1.6$Menu']/li[3]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d0f5762-b4d2-42fd-aefa-f47630e31952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jOXufW kLbcwX</value>
+      <webElementGuid>6f1cf75f-bf1c-49f5-8610-c1c5ad2e3df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Records</value>
+      <webElementGuid>d4a4df17-85e9-4a76-9cc8-e7761846b526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1.6$Menu&quot;)/li[@class=&quot;ant-menu-item sc-hvvGzM gMPhOF ant-menu-item-active&quot;]/div[@class=&quot;sc-iPzdya dxmTyM menu-item-label-container&quot;]/span[@class=&quot;sc-jOXufW kLbcwX&quot;]</value>
+      <webElementGuid>7077eda5-ae14-452d-90c8-f1b36c0e9959</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='1.6$Menu']/li[3]/div/span[2]</value>
+      <webElementGuid>5a32c88c-3378-4f11-8c01-399c4b9fd1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Directory'])[1]/following::span[2]</value>
+      <webElementGuid>9f4c3c63-9c09-46be-9eb7-43c236e1a474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[4]</value>
+      <webElementGuid>e570030c-26e3-4462-8560-f931db09b322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workforce'])[1]/preceding::span[4]</value>
+      <webElementGuid>7fec3c74-fa04-4d06-b776-251f0e2b9fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety'])[1]/preceding::span[8]</value>
+      <webElementGuid>a0e28186-cd08-4ddb-9b72-1a1b039ba354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Records']/parent::*</value>
+      <webElementGuid>1b317122-f59f-4977-8dc2-a553ee064c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span[2]</value>
+      <webElementGuid>37e20ff0-0a48-40c7-bd29-c44aa22cea66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Records' or . = 'Records')]</value>
+      <webElementGuid>555fdc98-7264-400a-ad40-7c13e7ee826f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

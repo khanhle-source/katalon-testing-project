@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Records</name>
+   <tag></tag>
+   <elementGuidId>d2dd9e74-f10e-46fc-bc14-7baa9120ba34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.sc-iPzdya.ebAYmy.ant-menu-item-active > div.sc-iAZqYj.eMAjIb.menu-item-label-container > span.sc-byhhpF.mdyxX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='1.5$Menu']/li[3]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6051189f-3202-4973-9fda-ec5f3ecf34bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-byhhpF mdyxX</value>
+      <webElementGuid>d5c84b94-ba82-4be9-a62e-39e26d968248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Records</value>
+      <webElementGuid>77ed5a1e-db5a-4bed-8e87-709126b497fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1.5$Menu&quot;)/li[@class=&quot;ant-menu-item sc-iPzdya ebAYmy ant-menu-item-active&quot;]/div[@class=&quot;sc-iAZqYj eMAjIb menu-item-label-container&quot;]/span[@class=&quot;sc-byhhpF mdyxX&quot;]</value>
+      <webElementGuid>f38f55bd-f25e-49f1-a753-6963889cb52b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='1.5$Menu']/li[3]/div/span[2]</value>
+      <webElementGuid>fe382bc2-2741-476b-912e-6abde7d93685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component Directory'])[1]/following::span[2]</value>
+      <webElementGuid>68b7944b-30f5-4368-931c-88fa4d24b8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[4]</value>
+      <webElementGuid>cb82ffe5-0715-4f04-85d3-95cd379d13c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Information'])[2]/preceding::span[1]</value>
+      <webElementGuid>2ac90370-eca2-4505-8e3c-ac18a8e555af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Project QR Code'])[1]/preceding::span[1]</value>
+      <webElementGuid>fc75c06b-a177-4fba-b903-17ec4ca81ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Records']/parent::*</value>
+      <webElementGuid>dcda4e42-9b9a-481a-b9b8-a35d56a9726a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span[2]</value>
+      <webElementGuid>856d7c3b-c400-45e5-9311-552163d48eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Records' or . = 'Records')]</value>
+      <webElementGuid>92d7806b-7aca-45a4-8e69-5df948096526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='1.6$Menu']/li[3]/div/span[2]</value>
+      <webElementGuid>5a32c88c-3378-4f11-8c01-399c4b9fd1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workforce'])[1]/preceding::span[4]</value>
+      <webElementGuid>7fec3c74-fa04-4d06-b776-251f0e2b9fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety'])[1]/preceding::span[8]</value>
+      <webElementGuid>a0e28186-cd08-4ddb-9b72-1a1b039ba354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

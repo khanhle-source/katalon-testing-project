@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_Clear Signature_signatureCanvas</name>
+   <tag></tag>
+   <elementGuidId>d77d17e9-6c33-4458-a860-de873e638351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>canvas.signatureCanvas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//canvas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>21341b71-5a8f-4f9a-a19f-63b73b9febe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signatureCanvas</value>
+      <webElementGuid>5401b843-82e6-4b0a-9d60-2b85ce8ca316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>452</value>
+      <webElementGuid>1b64733e-d629-44db-aa8c-18dcf309e0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>148</value>
+      <webElementGuid>fde5f7d5-fe98-43e1-ae74-3191cc99da91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fontLoaded&quot;]/div[9]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal sc-cjibBx feUIjT&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;sc-cabOPr eTGKrN&quot;]/div[@class=&quot;sc-jddJNQ kvXuBK&quot;]/div[@class=&quot;sc-hywjFt ewoljK&quot;]/canvas[@class=&quot;signatureCanvas&quot;]</value>
+      <webElementGuid>75c61250-a5f8-4b95-9f81-8a46be5ea65a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>283eddc2-2f4b-42bd-adec-68c3673a2998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

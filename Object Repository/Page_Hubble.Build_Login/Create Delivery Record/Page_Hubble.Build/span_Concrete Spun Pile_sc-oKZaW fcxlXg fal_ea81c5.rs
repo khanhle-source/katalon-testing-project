@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Concrete Spun Pile_sc-oKZaW fcxlXg fal_ea81c5</name>
+   <tag></tag>
+   <elementGuidId>c1062f81-6233-4782-ae1d-612d1c7b1eec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-oKZaW.fcxlXg.fal.fa-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div/div/div/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5e15873-28d3-42d6-a050-e55f7b2b950b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-oKZaW fcxlXg fal fa-circle</value>
+      <webElementGuid>a62e5704-287a-4bc6-9239-c0e64062c509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fontLoaded&quot;]/div[8]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal sc-cjibBx feUIjT&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;sc-cabOPr eTGKrN&quot;]/div[@class=&quot;sc-iKTgrt eUAiJG&quot;]/div[@class=&quot;sc-ciyUsT loTvpT&quot;]/div[@class=&quot;sc-gKPRtg eQGXSB&quot;]/div[@class=&quot;sc-jrcTuL hIgjoY&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[@class=&quot;sc-fEXmlR sc-hQIyOC liNIiM kIQjTJ base-table-row clickable&quot;]/div[@class=&quot;sc-bTtZEv gHABDq sc-fSKiAx irLRtj&quot;]/div[@class=&quot;sc-cuOiQm dJFUcl&quot;]/span[@class=&quot;sc-oKZaW fcxlXg fal fa-circle&quot;]</value>
+      <webElementGuid>5dbb68f0-317b-4f47-ae08-0124dfefb27a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[3]/div/span</value>
+      <webElementGuid>7d563cb6-a20e-447a-87af-31faade95aae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

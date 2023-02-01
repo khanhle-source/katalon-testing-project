@@ -3,6 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import org.openqa.selenium.Rectangle as Rectangle
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -21,7 +22,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://platform-stg.hubble.build/')
 
-WebUI.takeScreenshotAsCheckpoint('screenshot_conf')
+WebUI.takeAreaScreenshotAsCheckpoint('abc', new Rectangle(50, 25, 150, 100))
 
 WebUI.closeBrowser()
 

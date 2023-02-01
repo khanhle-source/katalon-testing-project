@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter operators name</name>
+   <tag></tag>
+   <elementGuidId>371d3ff4-20bb-4e27-91dc-21025e1af571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Enter operator’s name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e72533fe-bc69-4b1e-9fd2-43515e96104b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>d2f5ad6b-70a1-46c7-8f20-cfadc8efc8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__placeholder</value>
+      <webElementGuid>d9091fbb-8fcf-457d-9463-45aa109a4bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter operator’s name</value>
+      <webElementGuid>dc6cdc9f-f4b1-4420-bf64-c1468ceb417a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;sc-dZjHZU gPAfJg&quot;]/div[@class=&quot;sc-nbcfT eDYXiM&quot;]/div[@class=&quot;sc-klEEPK lbVhCT&quot;]/div[@class=&quot;sc-jXeSpT czEfzL&quot;]/div[@class=&quot;sc-hQZdRR bdRgwz&quot;]/div[1]/div[1]/div[@class=&quot;sc-hhhKsR fXsTNV&quot;]/div[@class=&quot;sc-cyRTDc dTfWzX&quot;]/div[@class=&quot;sc-cJRpLa kAhAVi&quot;]/div[@class=&quot;sc-ibYzZP ixdkZZ&quot;]/div[@class=&quot;ant-col ant-col-20&quot;]/div[@class=&quot;sc-jDfIjF fBSDUD&quot;]/div[@class=&quot;sc-gRhIYd kqboUm&quot;]/div[@class=&quot;sc-enHPVx sc-XgZWy kqkovd bfakjV&quot;]/div[@class=&quot;sc-enHPVx kqkovd&quot;]/div[@class=&quot;sc-hWdGLs eszyqq&quot;]/div[@class=&quot;sc-gtWJRm iZseyh project-users-small ant-select ant-select-enabled ant-select-allow-clear&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/div[@class=&quot;ant-select-selection__placeholder&quot;]</value>
+      <webElementGuid>c8a2059d-c072-476b-8520-cb38cc884e05</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

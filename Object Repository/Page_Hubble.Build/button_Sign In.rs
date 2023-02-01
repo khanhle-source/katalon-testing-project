@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <value>(//button[@type='button'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d505833c-62be-4fea-bd4a-115d3487b4ec</webElementGuid>
+      <webElementGuid>025ea8c3-f882-480e-96d0-1e3a0bcd2b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>223d36d2-ccb1-4efb-b451-84012ad073e6</webElementGuid>
+      <webElementGuid>b0884a66-fdef-4e01-aec1-6543162be498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sc-fLcnxK eelqGM size-default  block variant-primary </value>
-      <webElementGuid>2c2be4ce-a8ae-4e63-b68c-6f18fa7de42c</webElementGuid>
+      <value>sc-fLcnxK eelqGM size-default   variant-primary </value>
+      <webElementGuid>83657b32-87ce-4629-b2e4-8a23e9fdc173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>test-pad</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f860ed68-e906-4630-9788-1fd34767ba6f</webElementGuid>
+      <webElementGuid>4e069688-fd8b-4480-bef5-2932320b91f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,23 +54,119 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>af804acd-768e-4aae-ace4-fc11cbcd5b23</webElementGuid>
+      <webElementGuid>cd3b960e-b525-44f5-88a1-4a79792053ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;sc-hQZdRR bdRgwz&quot;]/div[1]/div[1]/div[@class=&quot;sc-hhhKsR fXsTNV&quot;]/div[@class=&quot;sc-cyRTDc kmmVIH&quot;]/section[@class=&quot;sc-hWTqMA blrRaf ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;sc-hWTqMA blrRaf ant-layout&quot;]/div[@class=&quot;sc-ebbjQI krAOLT&quot;]/div[@class=&quot;sc-gwpYQS jFawMY&quot;]/button[@class=&quot;sc-fLcnxK eelqGM size-default  block variant-primary&quot;]</value>
-      <webElementGuid>a8683bac-07af-489f-9e40-e006a2c3c69c</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;sc-kRkRkg flykWU&quot;]/div[@class=&quot;sc-lgExqj ecQdAG&quot;]/div[@class=&quot;sc-EPlqQ jGcmVR&quot;]/button[@class=&quot;sc-fLcnxK eelqGM size-default   variant-primary&quot;]</value>
+      <webElementGuid>a61a35ad-472e-44da-8aa9-383be2de8759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event</name>
+      <type>Main</type>
+      <value>bodyRegistration</value>
+      <webElementGuid>5ca4062a-ad9c-4159-a8fb-2c5106b13f5a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>413cc09d-beff-40e1-8516-ade59c705b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/button</value>
+      <webElementGuid>6a3949c2-95e2-40d9-866a-e695954fda91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deploy, Track, Optimise, and Automate your Construction Sites today'])[1]/following::button[1]</value>
+      <webElementGuid>b2b7799f-dc2d-4f46-8f11-3dd9f7d85c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::button[1]</value>
+      <webElementGuid>d03af184-394e-429b-b0f4-ded9b237bd47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>bde9a1f8-fa92-44c5-9b29-5491d688325e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>ae6f1c6a-93c4-41c3-a926-976f8b3657e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>6d53114f-4fb3-412c-bc2c-e9cca3e64197</webElementGuid>
+      <webElementGuid>65dd630b-1d31-4b9e-98d1-93fd0f81b54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>ed0f3546-a41a-48b9-9c23-9bfe8bb73110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deploy, Track, Optimise, and Automate your Construction Sites today'])[1]/preceding::button[1]</value>
+      <webElementGuid>68122aa3-4ebb-43df-9ec9-62abd8181533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/preceding::button[1]</value>
+      <webElementGuid>56a190ae-c57f-4311-b557-714d9e3a684f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>444fa9e0-eaea-4541-93ab-bb0abf2558e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5364ebbd-9c35-486e-98b2-6af19defe43d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,29 +207,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
       <webElementGuid>5a37e519-8fec-41b8-9ef9-910c45324039</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>3787945c-46a7-42cd-91f5-483fd4fec29c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>394b58bd-1f3b-4957-84c2-fadb80a76c38</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>f6f45737-6edf-4560-9ac9-1ea5686b08e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

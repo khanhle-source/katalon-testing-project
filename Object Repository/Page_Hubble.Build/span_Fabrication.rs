@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fabrication</name>
+   <tag></tag>
+   <elementGuidId>8afffeab-ac84-45fa-831b-b41437d75bb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-inline.sc-dRIUVP.cwbdu.ant-menu-submenu-active > div.ant-menu-submenu-title > div.sc-jOXufW.hklUVp > span.sc-byhhpF.mdyxX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div/div[3]/div/div/div/div/ul/li[5]/div/div/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b052bece-4c60-4059-9106-3bde5271a7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-byhhpF mdyxX</value>
+      <webElementGuid>0c7c92f2-f441-4393-b15f-b87d6af4c807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fabrication</value>
+      <webElementGuid>008b784b-b393-4855-aeba-337624cb5cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;sc-dZjHZU gPAfJg&quot;]/div[@class=&quot;sc-nbcfT eDYXiM&quot;]/div[@class=&quot;sc-klEEPK lbVhCT&quot;]/div[@class=&quot;sc-jDXXXY gmmTka&quot;]/div[@class=&quot;sc-gowCNL jkLxxW&quot;]/div[@class=&quot;sc-WpsyW eHukpt&quot;]/div[@class=&quot;sc-dGJyNR hUhcBr&quot;]/div[1]/div[@class=&quot;sc-lcOaVN hRLSRU&quot;]/ul[@class=&quot;ant-menu sc-bSdWI iGxqiT ant-menu-light ant-menu-root ant-menu-inline&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline sc-dRIUVP cwbdu ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/div[@class=&quot;sc-jOXufW hklUVp&quot;]/span[@class=&quot;sc-byhhpF mdyxX&quot;]</value>
+      <webElementGuid>3d7e7842-b523-47fd-960d-194e1ea1daa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[3]/div/div/div/div/ul/li[5]/div/div/span[3]</value>
+      <webElementGuid>cac7a12f-5c22-4e2d-a2fb-e383c1632bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document'])[1]/following::span[4]</value>
+      <webElementGuid>98c42646-8013-4152-b86b-28785b4c1c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/following::span[8]</value>
+      <webElementGuid>71b586b1-6745-4d90-b673-3145b2814154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Information'])[2]/preceding::span[1]</value>
+      <webElementGuid>1f547e35-39a6-48cf-bfac-98abb57c8329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Project QR Code'])[1]/preceding::span[1]</value>
+      <webElementGuid>184dfba7-5898-4a31-8ffb-4c490f7a243d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fabrication']/parent::*</value>
+      <webElementGuid>7fce6e13-f10a-4fa7-a61b-0686b40cdaa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/span[3]</value>
+      <webElementGuid>9ef731cc-7430-4759-992c-fc63115d9d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fabrication' or . = 'Fabrication')]</value>
+      <webElementGuid>e92b17c1-5586-48ab-8245-4149c5843c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div/div[3]/div/div/div/div/ul/li[6]/div/div/span[3]</value>
+      <webElementGuid>18fdf371-2db3-4a0b-a160-2132b63f441a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay'])[1]/following::span[8]</value>
+      <webElementGuid>d1dedb0e-1f19-45cd-ac0f-ae601f4816e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workforce'])[1]/preceding::span[4]</value>
+      <webElementGuid>be8f7f76-136b-4660-8e15-aa5b32b431ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety'])[1]/preceding::span[8]</value>
+      <webElementGuid>1ff78f98-7785-4b62-86ab-13145e5d2bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/div/span[3]</value>
+      <webElementGuid>c418be8d-c6eb-4c3a-a2d9-ed24ff60f618</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

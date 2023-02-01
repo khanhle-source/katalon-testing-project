@@ -21,7 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://platform-stg.hubble.build/')
 
-WebUI.takeScreenshotAsCheckpoint('screenshot_conf')
+WebUI.click(findTestObject('Page_Hubble.Build/button_Sign In'))
+
+WebUI.setText(findTestObject('Page_Hubble.Build_Login/input_Email or Username_email'), '')
+
+WebUI.click(findTestObject('Page_Hubble.Build_Login/button_Sign In'))
 
 WebUI.closeBrowser()
 

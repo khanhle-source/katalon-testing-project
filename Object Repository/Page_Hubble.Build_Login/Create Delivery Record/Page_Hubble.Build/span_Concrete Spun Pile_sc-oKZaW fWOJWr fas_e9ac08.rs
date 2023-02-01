@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Concrete Spun Pile_sc-oKZaW fWOJWr fas_e9ac08</name>
+   <tag></tag>
+   <elementGuidId>0d664080-d1e1-4a80-8385-87a1619b73a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-oKZaW.fWOJWr.fas.fa-check-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/div/div/div/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>294ff07a-4b89-4cf1-a57f-441c12a6da9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-oKZaW fWOJWr fas fa-check-circle</value>
+      <webElementGuid>b2699b51-2600-4ffc-b6aa-edf2a5eadba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fontLoaded&quot;]/div[8]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal sc-cjibBx feUIjT&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;sc-cabOPr eTGKrN&quot;]/div[@class=&quot;sc-iKTgrt eUAiJG&quot;]/div[@class=&quot;sc-ciyUsT loTvpT&quot;]/div[@class=&quot;sc-gKPRtg eQGXSB&quot;]/div[@class=&quot;sc-jrcTuL hIgjoY&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[@class=&quot;sc-fEXmlR sc-hQIyOC liNIiM kIQjTJ base-table-row clickable selected&quot;]/div[@class=&quot;sc-bTtZEv gHABDq sc-fSKiAx irLRtj&quot;]/div[@class=&quot;sc-cuOiQm dJFUcl&quot;]/span[@class=&quot;sc-oKZaW fWOJWr fas fa-check-circle&quot;]</value>
+      <webElementGuid>5486cd37-7584-4ea2-acda-6a07c0ea74bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[3]/div/span</value>
+      <webElementGuid>08cdc915-40f1-49bd-88d2-202e0282cdc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select who will verify this delivery record</name>
+   <tag></tag>
+   <elementGuidId>d7a38562-e33f-4a9f-92c4-7d7afb0c4fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-selection__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[4]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28d9e1ac-fbf9-4a39-a871-b6b496249273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>8a3fbddd-c1f5-4c21-8afc-d668ba7c01b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__placeholder</value>
+      <webElementGuid>7fdd3dc0-1d57-45b2-8b77-765e40146cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select who will verify this delivery record</value>
+      <webElementGuid>a47bebe5-0bfc-4db3-b4ed-e54c17a5011d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;sc-jEvhcD karsMF&quot;]/div[@class=&quot;sc-fZqfic cUzlYs&quot;]/div[@class=&quot;sc-dsakmN gIuGeF&quot;]/div[@class=&quot;sc-klEEPK cUqsUD&quot;]/div[@class=&quot;sc-hQZdRR bdRgwz&quot;]/div[1]/div[1]/div[@class=&quot;sc-hhhKsR fXsTNV&quot;]/div[@class=&quot;sc-cyRTDc dTfWzX&quot;]/div[@class=&quot;sc-cJRpLa kAhAVi&quot;]/div[@class=&quot;sc-ibYzZP ixdkZZ&quot;]/div[@class=&quot;ant-col ant-col-20&quot;]/div[@class=&quot;sc-jDfIjF fBSDUD&quot;]/div[1]/div[@class=&quot;sc-enHPVx kqkovd&quot;]/div[@class=&quot;sc-hWdGLs eszyqq&quot;]/div[@class=&quot;sc-gmcCKa iZgaZp project-users-small ant-select ant-select-enabled ant-select-allow-clear&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/div[@class=&quot;ant-select-selection__placeholder&quot;]</value>
+      <webElementGuid>3233f89f-26d6-45d5-a642-202b09a47363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[4]/div[2]/div/div/div/div</value>
+      <webElementGuid>ee8da909-1c36-479a-ab43-9a972585df6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignee'])[1]/following::div[5]</value>
+      <webElementGuid>a92bd3ca-dc4c-43db-bd69-fb00887285fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual Delivery Date'])[1]/following::div[10]</value>
+      <webElementGuid>f77ebade-c6b6-4630-9a71-355b583e467b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivered Components'])[1]/preceding::div[3]</value>
+      <webElementGuid>de562053-7d0d-41df-a5e7-1168492ab814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Components'])[1]/preceding::div[4]</value>
+      <webElementGuid>22d63d72-242c-408a-bb81-a3382440517c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select who will verify this delivery record']/parent::*</value>
+      <webElementGuid>35e0874d-2a72-446f-8319-1982abe6426d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div</value>
+      <webElementGuid>a16328b9-90b7-4110-9c18-8e5e3b790e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select who will verify this delivery record' or . = 'Select who will verify this delivery record')]</value>
+      <webElementGuid>464e325c-d154-4e2d-9321-69ac437e43a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

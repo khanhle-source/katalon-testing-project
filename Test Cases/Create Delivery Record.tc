@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Delivery Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90429cff-33a5-49b8-9c58-444bbe8aeb7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51e432d7-bcf7-4e03-a8ba-aa53d2ce7603</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51e432d7-bcf7-4e03-a8ba-aa53d2ce7603</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

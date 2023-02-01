@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select who will verify this delivery re_14221a</name>
+   <tag></tag>
+   <elementGuidId>d7ef538c-e67a-4dc6-81a6-8d54d4d0cbe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-selection__rendered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[4]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f95dfa8-0e1f-4269-ae4b-6b3ad72244fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__rendered</value>
+      <webElementGuid>9bc08cb9-b0e1-4420-a657-3bbafcf71aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select who will verify this delivery recordBKBlake KinsleyWeston Ltd </value>
+      <webElementGuid>942051d6-c9a3-493c-8321-9e01acdcbc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;sc-jPNehe lhBabP&quot;]/div[@class=&quot;sc-fXGuyX csfJso&quot;]/div[@class=&quot;sc-iPvCKh jbLnio&quot;]/div[@class=&quot;sc-bbDxtK hNyWgY&quot;]/div[@class=&quot;sc-hQZdRR bdRgwz&quot;]/div[1]/div[1]/div[@class=&quot;sc-hhhKsR fXsTNV&quot;]/div[@class=&quot;sc-cyRTDc dTfWzX&quot;]/div[@class=&quot;sc-cJRpLa kAhAVi&quot;]/div[@class=&quot;sc-ibYzZP ixdkZZ&quot;]/div[@class=&quot;ant-col ant-col-20&quot;]/div[@class=&quot;sc-jDfIjF fBSDUD&quot;]/div[1]/div[@class=&quot;sc-enHPVx kqkovd&quot;]/div[@class=&quot;sc-hWdGLs eszyqq&quot;]/div[@class=&quot;sc-gmcCKa iZgaZp project-users-small ant-select ant-select-enabled ant-select-allow-clear ant-select-focused&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]</value>
+      <webElementGuid>c0ae5190-7a7c-4c22-acae-e6de7e1d3994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div[2]/div[2]/div/div/div/div/div/div/div/div/div/div[4]/div[2]/div/div/div</value>
+      <webElementGuid>ee4f91ae-212f-4492-a5b9-047ecc8ba677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignee'])[1]/following::div[4]</value>
+      <webElementGuid>1d45e781-efb7-440b-a663-e47736f74fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual Delivery Date'])[1]/following::div[9]</value>
+      <webElementGuid>d8964939-12a1-40b4-804a-7159afbea817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div</value>
+      <webElementGuid>e6de3b2e-6971-41b4-89a7-8dc221a8e190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select who will verify this delivery recordBKBlake KinsleyWeston Ltd ' or . = 'Select who will verify this delivery recordBKBlake KinsleyWeston Ltd ')]</value>
+      <webElementGuid>d50f81d8-c767-4b04-9fef-675900fd55ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
